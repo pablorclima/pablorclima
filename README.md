@@ -1,25 +1,19 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Pablo Lima 👋
 
-**[Sua profissão ou cargo]** · 📍 [Cidade, País]
+**Gerente de Tecnologia no Grupo Mirante** · 📍 São Luís, Brasil
 
-Sou apaixonado(a) por [área de interesse] e gosto de criar [tipo de projeto]. Atualmente estou focado(a) em [o que você está fazendo agora].
+Sou apaixonado(a) por tecnologia e gosto de criar ferramentas que ajudem pessoas. Atualmente estou focado em aprender a usas Ia para ajudar pessoas.
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente trabalho em **[projeto ou empresa]**
-- 🌱 Estou aprendendo **[tecnologia ou assunto]**
-- 🤝 Busco colaborar em **[tipo de projeto]**
-- 💬 Pode me perguntar sobre **[assuntos que você domina]**
-- ⚡ Curiosidade: [algo interessante sobre você]
+- 🔭 Atualmente trabalho em **Grupo Mirante**
+- 🌱 Estou aprendendo **Várias coisas ao mesmo tempo**
+- 🤝 Busco colaborar em **projetos que ajudem pessoas**
+- 💬 Pode me perguntar sobre **quase nada**
+- ⚡ Curiosidade: Sou curioso !
 
 ## 🛠️ Tecnologias e ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📌 Projetos em destaque
